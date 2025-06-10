@@ -24,7 +24,7 @@ Token Purpose
 •	🚀 Easy on-chain trading experience
 Tokenomics
 •	Total Supply: 100,000,000 FT
-•	Initial Liquidity: 2,500,000 FT
+•	Initial Liquidity: 34,000,000 FT
 •	Burn Mechanism: Supported
 •	Minting Authority: Revoked
 •	Freeze Authority: Revoked
@@ -32,7 +32,7 @@ Roadmap
 •	Q2 2025: Launch on Raydium, CoinMarketCap listing
 •	Q3 2025: NFT airdrops for holders, Social growth
 •	Q4 2025: Community staking, Early partnerships
-•	2026: FT Wallet tools for onboarding new users
+•	2029: FT Wallet tools for onboarding new users
 Team
 FT was launched by a solo creator and driven by a supportive community. Contact: ft@fristtime.com
 Resources
