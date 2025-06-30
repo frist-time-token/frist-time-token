@@ -38,6 +38,6 @@ FT was launched by a solo creator and driven by a supportive community. Contact:
 Resources
 •	Website: https://fristtime.com
 •	Solana Explorer: https://solscan.io/token/7dgpAQpMDXhFQUsE8Sf5aw4FEMgitk8byTF52AzKQU9e
-•	Logo: https://i.imgur.com/fh8ojrj.png
+•	Logo: https://imgur.com/a/yfyReo6
 Disclaimer
 FT is an experimental token. No guarantee of future value. Always DYOR.
